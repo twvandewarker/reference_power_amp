@@ -1,5 +1,5 @@
-Part	Manufacturer	Model	Description	Price	Quantity
-Amp assembly	TI	TPA3251EVM	TPA3251 class D reference implementation	74.5	1
-Power supply	MeanWell	LRS-350-36	350W switching PSU	31.1	1
-Enclosure	Hammond	RMCV190313BK1	2U vented rack mount enclosure	116.96	1
-Power entry module	Delta	06AB2D	EMI filter, switch, fuse	12.09	1
+Part,Manufacturer,Model,Description,Price,Quantity
+Amp assembly,TI,TPA3251EVM,TPA3251 class D reference implementation,74.5,1
+Power supply,MeanWell,LRS-350-36,350W switching PSU,31.1,1
+Enclosure,Hammond,RMCV190313BK1,2U vented rack mount enclosure,116.96,1
+Power entry module,Delta,06AB2D,"EMI filter, switch, fuse",12.09,1
